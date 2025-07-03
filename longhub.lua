@@ -42,7 +42,7 @@ Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 10)
 -- Title
 local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, 0, 0, 30)
-title.Text = "😼 lOnG 0_o | CAT HUB"
+title.Text = "😼 lOnG 0_o "
 title.TextColor3 = Color3.new(1, 1, 1)
 title.Font = Enum.Font.GothamBold
 title.TextSize = 18
